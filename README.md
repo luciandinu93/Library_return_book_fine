@@ -13,5 +13,5 @@ fine = 500 * (the number of months late)</b>.</br></li>
 
 <b>Input Format</b>
 
-The first line contains </b>3</b> space-separated integers denoting the respective <b>day, month, year </b> and  on which the book was actually returned. 
-The second line contains </b>3</b> space-separated integers denoting the respective <b>day, month, year </b> and  on which the book was expected to be returned (due date).
+The first line contains <b>3</b> space-separated integers denoting the respective <b>day, month, year </b> and  on which the book was actually returned. 
+The second line contains <b>3</b> space-separated integers denoting the respective <b>day, month, year </b> and  on which the book was expected to be returned (due date).
